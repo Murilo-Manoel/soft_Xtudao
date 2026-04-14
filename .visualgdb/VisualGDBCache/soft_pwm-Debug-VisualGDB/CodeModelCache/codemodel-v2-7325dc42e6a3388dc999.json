@@ -43,14 +43,14 @@
 				{
 					"directoryIndex" : 0,
 					"id" : "BSP::@6890427a1f51a3e7e1df",
-					"jsonFile" : "target-BSP-DEBUG-59d0e270403f1e973edf.json",
+					"jsonFile" : "target-BSP-DEBUG-4a7d7cd08625aeb017fa.json",
 					"name" : "BSP",
 					"projectIndex" : 0
 				},
 				{
 					"directoryIndex" : 0,
 					"id" : "soft_pwm::@6890427a1f51a3e7e1df",
-					"jsonFile" : "target-soft_pwm-DEBUG-a6f21836c20000d14381.json",
+					"jsonFile" : "target-soft_pwm-DEBUG-6e12942108d98347bf62.json",
 					"name" : "soft_pwm",
 					"projectIndex" : 0
 				},
@@ -67,8 +67,8 @@
 	"kind" : "codemodel",
 	"paths" : 
 	{
-		"build" : "C:/Repos/1ELE911_2026/assignment1-non-blocking-pwm-zzehgalinha/build/VisualGDB/Debug",
-		"source" : "C:/Repos/1ELE911_2026/assignment1-non-blocking-pwm-zzehgalinha"
+		"build" : "C:/Faculdade/Micro3/soft_Xtudao/build/VisualGDB/Debug",
+		"source" : "C:/Faculdade/Micro3/soft_Xtudao"
 	},
 	"version" : 
 	{

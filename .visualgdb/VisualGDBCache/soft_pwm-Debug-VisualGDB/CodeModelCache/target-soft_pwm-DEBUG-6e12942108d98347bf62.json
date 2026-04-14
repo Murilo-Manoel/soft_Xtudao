@@ -128,23 +128,23 @@
 			[
 				{
 					"backtrace" : 9,
-					"path" : "C:/Repos/1ELE911_2026/assignment1-non-blocking-pwm-zzehgalinha/Core/Inc"
+					"path" : "C:/Faculdade/Micro3/soft_Xtudao/Core/Inc"
 				},
 				{
 					"backtrace" : 9,
-					"path" : "C:/Repos/1ELE911_2026/assignment1-non-blocking-pwm-zzehgalinha/Drivers/STM32F4xx_HAL_Driver/Inc"
+					"path" : "C:/Faculdade/Micro3/soft_Xtudao/Drivers/STM32F4xx_HAL_Driver/Inc"
 				},
 				{
 					"backtrace" : 9,
-					"path" : "C:/Repos/1ELE911_2026/assignment1-non-blocking-pwm-zzehgalinha/Drivers/STM32F4xx_HAL_Driver/Inc/Legacy"
+					"path" : "C:/Faculdade/Micro3/soft_Xtudao/Drivers/STM32F4xx_HAL_Driver/Inc/Legacy"
 				},
 				{
 					"backtrace" : 9,
-					"path" : "C:/Repos/1ELE911_2026/assignment1-non-blocking-pwm-zzehgalinha/Drivers/CMSIS/Device/ST/STM32F4xx/Include"
+					"path" : "C:/Faculdade/Micro3/soft_Xtudao/Drivers/CMSIS/Device/ST/STM32F4xx/Include"
 				},
 				{
 					"backtrace" : 9,
-					"path" : "C:/Repos/1ELE911_2026/assignment1-non-blocking-pwm-zzehgalinha/Drivers/CMSIS/Include"
+					"path" : "C:/Faculdade/Micro3/soft_Xtudao/Drivers/CMSIS/Include"
 				}
 			],
 			"language" : "C",
@@ -176,7 +176,7 @@
 			},
 			{
 				"backtrace" : 4,
-				"fragment" : "-\"TC:/Repos/1ELE911_2026/assignment1-non-blocking-pwm-zzehgalinha/STM32F407VGTX_FLASH.ld\"",
+				"fragment" : "-\"TC:/Faculdade/Micro3/soft_Xtudao/STM32F407VGTX_FLASH.ld\"",
 				"role" : "libraries"
 			},
 			{
@@ -219,7 +219,7 @@
 			},
 			{
 				"backtrace" : 4,
-				"fragment" : "-\"TC:/Repos/1ELE911_2026/assignment1-non-blocking-pwm-zzehgalinha/STM32F407VGTX_FLASH.ld\""
+				"fragment" : "-\"TC:/Faculdade/Micro3/soft_Xtudao/STM32F407VGTX_FLASH.ld\""
 			},
 			{
 				"backtrace" : 5,

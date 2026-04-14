@@ -35,7 +35,7 @@
 				}
 			],
 			"type" : "FILEPATH",
-			"value" : "C:/Repos/1ELE911_2026/assignment1-non-blocking-pwm-zzehgalinha/STM32F407VGTX_FLASH.ld"
+			"value" : "C:/Faculdade/Micro3/soft_Xtudao/STM32F407VGTX_FLASH.ld"
 		},
 		{
 			"name" : "BSP_ROOT",
@@ -47,7 +47,7 @@
 				}
 			],
 			"type" : "PATH",
-			"value" : "C:/Repos/1ELE911_2026/assignment1-non-blocking-pwm-zzehgalinha"
+			"value" : "C:/Faculdade/Micro3/soft_Xtudao"
 		},
 		{
 			"name" : "CMAKE_ADDR2LINE",
@@ -80,6 +80,22 @@
 			],
 			"type" : "FILEPATH",
 			"value" : "C:/SysGCC/arm-eabi/bin/arm-none-eabi-ar.exe"
+		},
+		{
+			"name" : "CMAKE_ASM_COMPILER",
+			"properties" : 
+			[
+				{
+					"name" : "ADVANCED",
+					"value" : "1"
+				},
+				{
+					"name" : "HELPSTRING",
+					"value" : ""
+				}
+			],
+			"type" : "UNINITIALIZED",
+			"value" : ""
 		},
 		{
 			"name" : "CMAKE_ASM_COMPILER_AR",
@@ -227,7 +243,7 @@
 				}
 			],
 			"type" : "INTERNAL",
-			"value" : "c:/Repos/1ELE911_2026/assignment1-non-blocking-pwm-zzehgalinha/build/VisualGDB/Debug"
+			"value" : "c:/Faculdade/Micro3/soft_Xtudao/build/VisualGDB/Debug"
 		},
 		{
 			"name" : "CMAKE_CACHE_MAJOR_VERSION",
@@ -275,7 +291,7 @@
 				}
 			],
 			"type" : "INTERNAL",
-			"value" : "C:/Users/mctos/AppData/Local/VisualGDB/CMake/bin/cmake.exe"
+			"value" : "C:/Users/muril/AppData/Local/VisualGDB/CMake/bin/cmake.exe"
 		},
 		{
 			"name" : "CMAKE_CPACK_COMMAND",
@@ -287,7 +303,7 @@
 				}
 			],
 			"type" : "INTERNAL",
-			"value" : "C:/Users/mctos/AppData/Local/VisualGDB/CMake/bin/cpack.exe"
+			"value" : "C:/Users/muril/AppData/Local/VisualGDB/CMake/bin/cpack.exe"
 		},
 		{
 			"name" : "CMAKE_CTEST_COMMAND",
@@ -299,7 +315,23 @@
 				}
 			],
 			"type" : "INTERNAL",
-			"value" : "C:/Users/mctos/AppData/Local/VisualGDB/CMake/bin/ctest.exe"
+			"value" : "C:/Users/muril/AppData/Local/VisualGDB/CMake/bin/ctest.exe"
+		},
+		{
+			"name" : "CMAKE_CXX_COMPILER",
+			"properties" : 
+			[
+				{
+					"name" : "ADVANCED",
+					"value" : "1"
+				},
+				{
+					"name" : "HELPSTRING",
+					"value" : ""
+				}
+			],
+			"type" : "UNINITIALIZED",
+			"value" : ""
 		},
 		{
 			"name" : "CMAKE_CXX_COMPILER_AR",
@@ -412,6 +444,22 @@
 			],
 			"type" : "STRING",
 			"value" : "-O2 -g -DNDEBUG"
+		},
+		{
+			"name" : "CMAKE_C_COMPILER",
+			"properties" : 
+			[
+				{
+					"name" : "ADVANCED",
+					"value" : "1"
+				},
+				{
+					"name" : "HELPSTRING",
+					"value" : ""
+				}
+			],
+			"type" : "UNINITIALIZED",
+			"value" : ""
 		},
 		{
 			"name" : "CMAKE_C_COMPILER_AR",
@@ -687,7 +735,7 @@
 				}
 			],
 			"type" : "STATIC",
-			"value" : "C:/Repos/1ELE911_2026/assignment1-non-blocking-pwm-zzehgalinha/build/VisualGDB/Debug/CMakeFiles/pkgRedirects"
+			"value" : "C:/Faculdade/Micro3/soft_Xtudao/build/VisualGDB/Debug/CMakeFiles/pkgRedirects"
 		},
 		{
 			"name" : "CMAKE_GENERATOR",
@@ -747,7 +795,7 @@
 				}
 			],
 			"type" : "INTERNAL",
-			"value" : "C:/Repos/1ELE911_2026/assignment1-non-blocking-pwm-zzehgalinha"
+			"value" : "C:/Faculdade/Micro3/soft_Xtudao"
 		},
 		{
 			"name" : "CMAKE_INSTALL_PREFIX",
@@ -1019,7 +1067,7 @@
 				}
 			],
 			"type" : "INTERNAL",
-			"value" : "C:/Users/mctos/AppData/Local/VisualGDB/CMake/share/cmake-3.31"
+			"value" : "C:/Users/muril/AppData/Local/VisualGDB/CMake/share/cmake-3.31"
 		},
 		{
 			"name" : "CMAKE_SHARED_LINKER_FLAGS",
@@ -1251,11 +1299,11 @@
 			[
 				{
 					"name" : "HELPSTRING",
-					"value" : "No help, variable specified on the command line."
+					"value" : "The CMake toolchain file"
 				}
 			],
-			"type" : "UNINITIALIZED",
-			"value" : "C:\\Repos\\1ELE911_2026\\assignment1-non-blocking-pwm-zzehgalinha/build/VisualGDB/Debug/toolchain.cmake"
+			"type" : "FILEPATH",
+			"value" : "C:/Faculdade/Micro3/soft_Xtudao/build/VisualGDB/Debug/toolchain.cmake"
 		},
 		{
 			"name" : "CMAKE_VERBOSE_MAKEFILE",
@@ -1307,7 +1355,7 @@
 				}
 			],
 			"type" : "UNINITIALIZED",
-			"value" : "C:/Users/mctos/AppData/Local"
+			"value" : "C:/Users/muril/AppData/Local"
 		},
 		{
 			"name" : "PLATFORM",
@@ -1331,7 +1379,7 @@
 				}
 			],
 			"type" : "UNINITIALIZED",
-			"value" : "c:/sysgcc/arm-eabi"
+			"value" : "c:/SysGCC/arm-eabi"
 		},
 		{
 			"name" : "_BSP_CONFIGURABLE_PROJECT",
@@ -1343,7 +1391,7 @@
 				}
 			],
 			"type" : "INTERNAL",
-			"value" : "C:/Repos/1ELE911_2026/assignment1-non-blocking-pwm-zzehgalinha/soft_pwm.ioc"
+			"value" : "C:/Faculdade/Micro3/soft_Xtudao/soft_pwm.ioc"
 		},
 		{
 			"name" : "_BSP_CONFIGURATOR_ID",
@@ -1379,7 +1427,7 @@
 				}
 			],
 			"type" : "INTERNAL",
-			"value" : "C:/Repos/1ELE911_2026/assignment1-non-blocking-pwm-zzehgalinha/build/VisualGDB/Debug/BSP.cmake"
+			"value" : "C:/Faculdade/Micro3/soft_Xtudao/build/VisualGDB/Debug/BSP.cmake"
 		},
 		{
 			"name" : "_BSP_ID",
@@ -1427,7 +1475,7 @@
 				}
 			],
 			"type" : "INTERNAL",
-			"value" : "C:/Repos/1ELE911_2026/assignment1-non-blocking-pwm-zzehgalinha"
+			"value" : "C:/Faculdade/Micro3/soft_Xtudao"
 		},
 		{
 			"name" : "_BSP_VERSION",
@@ -1451,7 +1499,7 @@
 				}
 			],
 			"type" : "STATIC",
-			"value" : "C:/Repos/1ELE911_2026/assignment1-non-blocking-pwm-zzehgalinha/build/VisualGDB/Debug"
+			"value" : "C:/Faculdade/Micro3/soft_Xtudao/build/VisualGDB/Debug"
 		},
 		{
 			"name" : "soft_pwm_BSP_ALIAS",
@@ -1511,7 +1559,7 @@
 				}
 			],
 			"type" : "INTERNAL",
-			"value" : "C:/Repos/1ELE911_2026/assignment1-non-blocking-pwm-zzehgalinha/STM32F407VGTX_FLASH.ld"
+			"value" : "C:/Faculdade/Micro3/soft_Xtudao/STM32F407VGTX_FLASH.ld"
 		},
 		{
 			"name" : "soft_pwm_SOURCE_DIR",
@@ -1523,7 +1571,7 @@
 				}
 			],
 			"type" : "STATIC",
-			"value" : "C:/Repos/1ELE911_2026/assignment1-non-blocking-pwm-zzehgalinha"
+			"value" : "C:/Faculdade/Micro3/soft_Xtudao"
 		}
 	],
 	"kind" : "cache",
